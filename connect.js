@@ -11,3 +11,5 @@ var mongodb = require('mongodb');
 var http = require('http');
 //setup our port
 var port = process.env.PORT || 1337;
+// Connection URL. This is where your mongodb server is running.
+var url = 'mongodb://1205982mongo:root@ds054288.mongolab.com:54288/1205982mongo';
