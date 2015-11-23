@@ -1,6 +1,8 @@
 /**
  * Created by 1205982 on 23/11/2015.
- * file to connect nodejs to mongodb
+ * The first part of our connection code is to import the mongoDB library.
+ * In NodeJS this is called “require”.
+ * In Node, just like normal Javascript “//” is a comment.
  */
 
 //lets require/import the mongodb native drivers.
