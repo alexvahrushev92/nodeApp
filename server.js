@@ -1,2 +1,2 @@
 
-require('./retreive');
+require('./retrieve');
