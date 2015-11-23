@@ -50,7 +50,7 @@ http.createServer(function(request, response) {
                 response.end('Finished, Connection closed \n');
                 //remove any other db.close or response.end statement below this line
             });
-            
+
         }
     });
 
