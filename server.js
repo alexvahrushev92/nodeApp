@@ -1,2 +1,2 @@
 
-require('./inset');
+require('./insert');
